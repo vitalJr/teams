@@ -5,7 +5,8 @@ Done based on the <b>teams application</b>, it has the functionality of sending 
 
 below are some of his screens.
 
-https://user-images.githubusercontent.com/11637810/83924080-9b819c00-a77b-11ea-8f2a-1debc62dbe63.PNG
+<img src="https://user-images.githubusercontent.com/11637810/83924080-9b819c00-a77b-11ea-8f2a-1debc62dbe63.PNG">
+
 
 https://user-images.githubusercontent.com/11637810/83924131-bb18c480-a77b-11ea-90f2-73e4416e76c1.PNG
 
