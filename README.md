@@ -5,7 +5,7 @@ Aplicativo feito com o propósito de estudo. Possui a funcionalidade de um chat,
 
 <b>Bibliotecas utilizadas</b>
 <ul>
-  <li>ROUTER FLUX -> npm install --save react-native-router-flu</li>
+  <li>ROUTER FLUX -> npm install --save react-native-router-flux</li>
   <li>REDUX -> npm install --save redux</li>
   <li>FIREBASE - > npm install --save firebase</li>
   <li>REDUX/THUNK -> npm install --save redux-thunk</li>
